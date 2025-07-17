@@ -1,8 +1,4 @@
-provider "aws" {
-	access_key = "
-	secret_key = ""
-	region     = "eu-central-1"
-}
+provider "aws" {}
 
 resource "aws_instance" "my_ubuntu" {
     count = 3
