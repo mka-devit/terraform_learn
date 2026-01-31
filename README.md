@@ -1,4 +1,3 @@
-![Terraform](https://opensource.microsoft.com/blog/wp-content/uploads/2018/04/hashicorp-terraform-banner.png)
 
 ```bash
 terraform init
